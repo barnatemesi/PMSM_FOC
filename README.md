@@ -4,3 +4,6 @@ SPMSM dynamic model and FOC control + speed control loop (forming a cascade cont
 A short design documentation is also attached.
 
 Initialization is done in: Model Properties / Callbacks / InitFcn* 
+
+v1 (not shown) - solver is selected to be Variable-step (ode45)
+v2 - solver is selected to be Fixed-step (ode5)
