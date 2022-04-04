@@ -7,6 +7,6 @@ Initialization is done in: Model Properties / Callbacks / InitFcn*
 
 v1 (not shown) - solver is selected to be Variable-step (ode45)
 
-v2 - solver is selected to be Fixed-step (ode5)
+v2 - solver is selected to be Fixed-step (ode4)
 
-v3 - PI was extended to be a PID
+v3 - PI was extended with a D term
